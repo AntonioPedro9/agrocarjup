@@ -1,0 +1,21 @@
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+.logo {
+  display: flex;
+  font-family: serif;
+  font-size: 36px;
+}
+.logo img {
+  height: 36px;
+  margin-top: 4px;
+}
+.background-image {
+  position: relative;
+  background-image: url(../assets/background-image.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
